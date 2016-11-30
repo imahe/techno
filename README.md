@@ -1,2 +1,0 @@
-# techno
-Technopreneur Project
